@@ -103,9 +103,9 @@ connection = pymysql.connect(host='localhost',
   # 获取前N条数据
   print('游标所指位置的下两行数据:', cursor.fetchmany(2))
   ```
-# 获取所有数据
+## 获取所有数据
   print('游标所指位置的剩余所有数据:', cursor.fetchall())
-  # 上述三条每执行一次,会使游标向后移动
+  ## 上述三条每执行一次,会使游标向后移动
   ```
   
   
