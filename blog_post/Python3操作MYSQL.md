@@ -1,5 +1,12 @@
 ---
-abbrlink: c7f095e6
+title: Python3操作MYSQL
+categories:
+  - Python
+tags:
+  - 数据库
+  - python
+  - Mysql
+date: 2020-07-12 00:00:00
 ---
 # Python3操作MYSQL
 
@@ -95,6 +102,7 @@ connection = pymysql.connect(host='localhost',
   print('返回游标所指的下一行数据:', cursor.fetchone())
   # 获取前N条数据
   print('游标所指位置的下两行数据:', cursor.fetchmany(2))
+  ```
 # 获取所有数据
   print('游标所指位置的剩余所有数据:', cursor.fetchall())
   # 上述三条每执行一次,会使游标向后移动
@@ -104,12 +112,12 @@ connection = pymysql.connect(host='localhost',
 
 ## 游标控制
 
-```python
+​```python
 # 当前位置是指游标当前所指的位置后移动一位
 cursor.scroll(1, mode='relative')  # 相对当前位置移动
 # 绝对位置是游标移动到参数中设置的位置
 cursor.scroll(2, mode='absolute')  # 相对绝对位置移动
-```
+  ```
 
 ## 设置游标类型
 
