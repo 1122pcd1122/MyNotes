@@ -1,13 +1,9 @@
 ---
 title:数据库--Mysql
-categories:
-  - 数据库
 tags:
-  - 数据库
-  - Mysql
-  - java
-top: 0
-abbrlink: 1677
+	- 数据库
+	- Mysql
+	- java
 date:2020-07-23 12:12:57
 ---
 
