@@ -1,11 +1,11 @@
 ---
-title: Maven配置
+title:Maven配置
 categories:
   - Maven
 tags:
   - MAVEN
   - java
-date: 2020-07-12 00:00:00
+date:2020-07-12 00:00:00
 ---
 # Maven配置
 

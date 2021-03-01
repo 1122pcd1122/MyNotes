@@ -1,10 +1,10 @@
 ---
-title: Android
+title:Android
 categories:
   - Android
 tags:
   - Android
-date: 2020-07-12 00:00:00
+date:2020-07-12 00:00:00
 ---
 # 浅谈Android onSaceInstanceState()和onRestoreInstanceState()调用时机
 

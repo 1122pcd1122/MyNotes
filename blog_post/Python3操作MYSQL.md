@@ -1,12 +1,12 @@
 ---
-title: Python3操作MYSQL
+title:Python3操作MYSQL
 categories:
   - Python
 tags:
   - 数据库
   - python
   - Mysql
-date: 2020-07-12 00:00:00
+date:2020-07-12 00:00:00
 ---
 # Python3操作MYSQL
 

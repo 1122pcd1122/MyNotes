@@ -1,5 +1,5 @@
 ---
-title: JDBC学习
+title:JDBC学习
 categories:
   - 数据库
 tags:
@@ -7,8 +7,7 @@ tags:
   - java
   - Mysql
 top: 0
-abbrlink: 24700
-date: 2020-07-12 00:00:00
+date:2020-07-12 00:00:00
 ---
 
 # JDBC学习
