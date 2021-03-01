@@ -1,9 +1,9 @@
 ---
 title:数据库--Mysql
 tags:
-	- 数据库
-	- Mysql
-	- java
+	-数据库
+	-Mysql
+	-java
 date:2020-07-23 12:12:57
 ---
 

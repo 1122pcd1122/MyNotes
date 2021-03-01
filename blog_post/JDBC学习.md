@@ -1,9 +1,9 @@
 ---
 title:JDBC学习
 tags:
-	- 数据库
-	- java
-	- Mysql
+	-数据库
+	-java
+	-Mysql
 date:2020-07-12 00:00:00
 ---
 

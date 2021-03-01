@@ -1,8 +1,8 @@
 ---
 title:Maven配置
 tags:
-	- MAVEN
-	- java
+	-MAVEN
+	-java
 date:2020-07-12 00:00:00
 ---
 # Maven配置
